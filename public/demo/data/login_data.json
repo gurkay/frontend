@@ -1,0 +1,22 @@
+{
+    "LoginData": [
+      {
+        "email": "nick@gmail.com",
+        "name": "Nick",
+        "password": "123",
+        "role": ["employee", "editor"]
+      },
+      {
+        "email": "ratan@gmail.com",
+        "name": "Ratan",
+        "password": "123",
+        "role": ["manager", "editor"]
+      },
+      {
+        "email": "eve.holt@reqres.in",
+        "name": "reqres",
+        "password": "cityslicka",
+        "role": ["admin", "editor", "manager"]
+      }
+    ]
+  }
