@@ -4,7 +4,7 @@
         "email": "nick@gmail.com",
         "name": "Nick",
         "password": "123",
-        "role": ["editor"]
+        "role": ["user", "editor"]
       },
       {
         "email": "ratan@gmail.com",
@@ -16,7 +16,7 @@
         "email": "eve.holt@reqres.in",
         "name": "reqres",
         "password": "cityslicka",
-        "role": ["admin"]
-      }
+        "role": ["user", "admin", "manager", "editor"]
+      } 
     ]
   }
